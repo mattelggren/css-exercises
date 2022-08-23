@@ -1,0 +1,22 @@
+.base {
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.one {
+    background-color: #ffb6c1;
+}
+
+#two {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.one.three {
+    font-size: 24px;
+}
+
+#four {
+    background-color: hsl(120, 73%, 75%);
+    font-size: 24px;
+    font-weight: bold;
+}
